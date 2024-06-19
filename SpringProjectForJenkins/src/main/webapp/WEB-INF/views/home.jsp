@@ -10,13 +10,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
-<div>Hi Jenkins Deployment</div>
-<div>Final Project Process execution</div>
-<div>new Githook</div>
-<div>hooks</div>
-<div>connect</div>
-<div>connect</div>
-<div>final push</div>
 </body>
 </html>
 
